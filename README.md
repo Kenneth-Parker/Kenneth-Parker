@@ -1,3 +1,5 @@
+> :bulb: **Tip:** Remember to appreciate the little things in life.
+
 
 A lil'GIt About Me 
 
@@ -5,12 +7,11 @@ With an entrepreneurial mindset, I'm passionate about building innovative web ap
 
 
 # Entrepreneurial Software Engineer
+                    
 
+<img src="https://www.milestechnologies.com/wp-content/uploads/shutterstock_1392677963.jpg" width="1000" height="550">
 
-![Alt Text](https://www.milestechnologies.com/wp-content/uploads/shutterstock_1392677963.jpg)
-<img src="[image.png](https://www.milestechnologies.com/wp-content/uploads/shutterstock_1392677963.jpg)" width="800" height="400">
-
-
+[This is a comment that will be hidden.]: # 
 
 
 ## Description
@@ -19,7 +20,7 @@ As an experienced entrepreneur and passionate software engineer, I'm excited to 
 
 ## Services
 
-![Alt Text](https://static.wixstatic.com/media/32ba91_23c1fa56d2f846e7b6b16941c39886b6~mv2.gif)
+<img src="https://static.wixstatic.com/media/32ba91_23c1fa56d2f846e7b6b16941c39886b6~mv2.gif" width="600" height="250">
 
 I offer a range of services tailored to the needs of entrepreneurs and small businesses, including:
 
