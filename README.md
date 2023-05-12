@@ -3,6 +3,7 @@
 <h1 align="center">Welcome,  I'm Kenneth Parker</h1>
 <h3 align="center">Full-Stack Web Developer at <a href="https://www.pursuit.org/">Pursuit</a></h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kenneth-Parker&label=Profile%20views&color=0e75b6&style=flat" alt="Kenneth-Parker" /> </p>
 
 
@@ -16,6 +17,7 @@ With an entrepreneurial mindset, I'm passionate about building innovative web ap
 
 # Entrepreneurial Software Engineer
            
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <img src="https://www.milestechnologies.com/wp-content/uploads/shutterstock_1392677963.jpg" width="1000" height="550">
 
