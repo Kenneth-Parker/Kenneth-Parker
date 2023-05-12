@@ -4,7 +4,7 @@
 <h3 align="center">Full-Stack Web Developer at <a href="https://www.pursuit.org/">Pursuit</a></h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kenneth-Parker&label=Profile%20views&color=0e75b6&style=flat" alt="Kenneth-Parker profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kenneth-Parker&label=Profile%20views&color=0e75b6&style=flat" alt="Kenneth-Parker profile views" /> <img align="right" src="https://www.codewars.com/users/kenneth.parker/badges/micro" alt="Kennth-Parker" /></p></p>
 
 
 
@@ -55,6 +55,7 @@ With a unique blend of entrepreneurial experience and software engineering skill
 Ready to take your business to the next level? Let's work together! Contact me at [insert email address] to discuss your project and how I can help.
 
 Thank you for considering my services, and I look forward to hearing from you soon!
+
 
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kenneth-Parker&show_icons=true&locale=en" alt="Kennth-Parker" /></p>
