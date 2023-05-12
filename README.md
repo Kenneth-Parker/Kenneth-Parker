@@ -15,7 +15,11 @@ With an entrepreneurial mindset, I'm passionate about building innovative web ap
 
 
 # Entrepreneurial Software Engineer
-                    
+<style>
+img {
+  border: 7px solid #555;
+}
+</style>            
 
 <img src="https://www.milestechnologies.com/wp-content/uploads/shutterstock_1392677963.jpg" width="1000" height="550">
 
