@@ -53,3 +53,6 @@ With a unique blend of entrepreneurial experience and software engineering skill
 Ready to take your business to the next level? Let's work together! Contact me at [insert email address] to discuss your project and how I can help.
 
 Thank you for considering my services, and I look forward to hearing from you soon!
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kenneth-Parker&show_icons=true&locale=en" alt="Kennth-Parker" /></p>
