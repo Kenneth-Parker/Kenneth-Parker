@@ -55,4 +55,4 @@ Ready to take your business to the next level? Let's work together! Contact me a
 Thank you for considering my services, and I look forward to hearing from you soon!
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kenneth-Parker&show_icons=true&locale=en" alt="Kennth-Parker" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kenneth-Parker&show_icons=true&locale=en" alt="Kennth-Parker" /></p>
