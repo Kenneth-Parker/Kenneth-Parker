@@ -1,7 +1,7 @@
 > :bulb: **Tip:** Remember to appreciate the little things in life.
 
 <h1 align="center">Welcome,  I'm Kenneth Parker</h1>
-<h3 align="center">Full-Stack Web Developer at Pursuit</h3>
+<h3 align="center">Full-Stack Web Developer at <a href="https://www.pursuit.org/">Pursuit</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kenneth-Parker&label=Profile%20views&color=0e75b6&style=flat" alt="Kenneth-Parker" /> </p>
 
