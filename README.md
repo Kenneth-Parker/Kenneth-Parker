@@ -58,4 +58,4 @@ Thank you for considering my services, and I look forward to hearing from you so
 
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kenneth-Parker&show_icons=true&locale=en" alt="Kennth-Parker" /></p>
+
